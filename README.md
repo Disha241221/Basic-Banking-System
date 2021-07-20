@@ -4,7 +4,7 @@ Sparks Foundation Internship Project : Basic Banking System A Web Application us
 
 Frontend : HTML, CSS, JS                                         
 Backend : PHP , PhpMyAdmin                         
-Database : MySql
+Database : MySql                                                  
 Editor : Visual Studio
 
 Database contains two Tables- Customer Table & Transaction Table
