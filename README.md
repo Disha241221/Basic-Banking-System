@@ -7,5 +7,5 @@ Backend : PHP , PhpMyAdmin
 Database : MySql                                                  
 Editor : Visual Studio
 
-Database contains two Tables- Customer Table & Transaction Table
+Database contains Two Tables- Customer Table & Transaction Table
  
